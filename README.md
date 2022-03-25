@@ -14,14 +14,18 @@ npm install
 net start mysql
 ```
 
-运行项目
-```
-npm start
-```
-
 运行服务端
 ```
 node src/server.js
 ```
+
+运行项目
+```
+npm start
+
+默认端口是3000，与服务端冲突，出现提示的时候选择换端口就行
+Would you like to run the app on another port instead? ... yes
+```
+
 
 
