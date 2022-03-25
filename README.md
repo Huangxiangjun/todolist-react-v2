@@ -1,4 +1,4 @@
-react版本的todolist
+react版本的todolist，结合MySQL数据库
 
 下载包
 ```
